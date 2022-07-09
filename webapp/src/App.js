@@ -26,7 +26,7 @@ const App =  () => {
           <h2 class="mainContentHeading">
             Wealth comes from operations
           </h2>
-          <p>
+          <p id="mainContentParaOne">
             No modern business can thrive without developing a
             specialization in operations. <em>Huckleberry</em> has
             helped dozens of companies, from Fortune 50 monoliths to
@@ -34,7 +34,7 @@ const App =  () => {
             meet their KPIs by leveraging our extensive network of
             logistics experts.
           </p>
-          <p>
+          <p id="mainContentParaTwo">
             <em>Huckleberry</em> was established in 2003 to help
             ambitious businesses discover their true potential. If
             that resonates, let's chat. ☎
